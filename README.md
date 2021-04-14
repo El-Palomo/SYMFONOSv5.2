@@ -32,7 +32,7 @@ OS details: Linux 3.2 - 4.9
 Network Distance: 1 hop
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
-
+<img src="https://github.com/El-Palomo/SYMFONOSv5.2/blob/main/symfonos1.jpg" width=80% />
 
 
 
